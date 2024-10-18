@@ -44,9 +44,9 @@
   text-align: center;
 }
 
-.dropdown {
+/* .dropdown {
 
-}
+} */
 
 .dropdown-menu {
   display: none;
@@ -271,9 +271,9 @@ display: block;
   padding: 10px 20px;
 }
 
-.height {
+/* .height {
   height: 100vh;
-}
+} */
 
 .icon-menu {
   display: none;
